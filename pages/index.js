@@ -10,8 +10,8 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Toneko. I'm a software enginer and been working coding since a
-          finished the university.
+          Hi, I'm Toneko. I'm a software enginer and I've been coding since I
+          finished university.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
